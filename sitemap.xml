@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <url>
+  <loc>http://127.0.0.1:8000/</loc>
+  <lastmod>2017-01-28T17:26:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8000/en/" />
+ </url>
+ <url>
+  <loc>http://127.0.0.1:8000/a-propos/</loc>
+  <lastmod>2017-01-28T17:26:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8000/en/abour/" />
+ </url>
+ <url>
+  <loc>http://127.0.0.1:8000/archive.html</loc>
+  <lastmod>2017-01-28T17:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://127.0.0.1:8000/blog/</loc>
+  <lastmod>2017-01-28T17:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://127.0.0.1:8000/categories/</loc>
+  <lastmod>2017-01-28T17:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://127.0.0.1:8000/contact/</loc>
+  <lastmod>2017-01-28T17:26:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8000/en/contact/" />
+ </url>
+ <url>
+  <loc>http://127.0.0.1:8000/decouvrir/</loc>
+  <lastmod>2017-01-28T17:26:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8000/en/discover/" />
+ </url>
+ <url>
+  <loc>http://127.0.0.1:8000/en/</loc>
+  <lastmod>2017-01-28T17:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://127.0.0.1:8000/en/abour/</loc>
+  <lastmod>2017-01-28T17:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://127.0.0.1:8000/en/archive.html</loc>
+  <lastmod>2017-01-28T17:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://127.0.0.1:8000/en/blog/</loc>
+  <lastmod>2017-01-28T17:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://127.0.0.1:8000/en/categories/</loc>
+  <lastmod>2017-01-28T17:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://127.0.0.1:8000/en/contact/</loc>
+  <lastmod>2017-01-28T17:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://127.0.0.1:8000/en/discover/</loc>
+  <lastmod>2017-01-28T17:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://127.0.0.1:8000/en/galleries/</loc>
+  <lastmod>2017-01-28T17:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://127.0.0.1:8000/en/gallery/</loc>
+  <lastmod>2017-01-28T17:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://127.0.0.1:8000/en/projects/</loc>
+  <lastmod>2017-01-28T17:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://127.0.0.1:8000/en/team/</loc>
+  <lastmod>2017-01-28T17:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://127.0.0.1:8000/equipe/</loc>
+  <lastmod>2017-01-28T17:26:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8000/en/team/" />
+ </url>
+ <url>
+  <loc>http://127.0.0.1:8000/gallerie/</loc>
+  <lastmod>2017-01-28T17:26:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8000/en/gallery/" />
+ </url>
+ <url>
+  <loc>http://127.0.0.1:8000/galleries/</loc>
+  <lastmod>2017-01-28T17:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://127.0.0.1:8000/listings/</loc>
+  <lastmod>2017-01-28T17:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://127.0.0.1:8000/projets/</loc>
+  <lastmod>2017-01-28T17:26:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="http://127.0.0.1:8000/en/projects/" />
+ </url>
+</urlset>
