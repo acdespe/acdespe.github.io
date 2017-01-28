@@ -6,23 +6,23 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>http://127.0.0.1:8000/en/galleries/rss.xml</loc>
-  <lastmod>2017-01-28T17:40:00Z</lastmod>
+  <loc>https://acdespe.github.io/en/galleries/rss.xml</loc>
+  <lastmod>2017-01-28T17:44:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://127.0.0.1:8000/en/rss.xml</loc>
-  <lastmod>2017-01-28T17:26:00Z</lastmod>
+  <loc>https://acdespe.github.io/en/rss.xml</loc>
+  <lastmod>2017-01-28T17:44:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://127.0.0.1:8000/galleries/rss.xml</loc>
-  <lastmod>2017-01-28T17:40:00Z</lastmod>
+  <loc>https://acdespe.github.io/galleries/rss.xml</loc>
+  <lastmod>2017-01-28T17:44:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://127.0.0.1:8000/rss.xml</loc>
-  <lastmod>2017-01-28T17:26:00Z</lastmod>
+  <loc>https://acdespe.github.io/rss.xml</loc>
+  <lastmod>2017-01-28T17:44:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://127.0.0.1:8000/sitemap.xml</loc>
-  <lastmod>2017-01-28T17:40:00Z</lastmod>
+  <loc>https://acdespe.github.io/sitemap.xml</loc>
+  <lastmod>2017-01-28T17:44:00Z</lastmod>
  </sitemap>
 </sitemapindex>
