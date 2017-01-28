@@ -21,10 +21,10 @@ BLOG_AUTHOR = "Dada Romeo"  # (translatable)
 BLOG_TITLE = "ACDESPE"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "http://127.0.0.1:8000/"
+SITE_URL = "https://acdespe.github.io/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "http://127.0.0.1:8000/"
+# BASE_URL = "https://acdespe.github.io"
 BLOG_EMAIL = "contact@acdespe.org"
 BLOG_DESCRIPTION = "ACDESPE site"  # (translatable)
 
