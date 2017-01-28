@@ -658,3 +658,30 @@ article.post-micro {
         display: none;
     }
 }
+
+.ccolor {
+    color: #6ebe00;
+}
+
+.pic {
+    width: 96px;
+    height: 96px;
+}
+
+.glyph-lg {
+    font-size: 50px;
+}
+
+.glyph-md {
+    font-size: 25px;
+}
+
+.sep-top {
+    margin-top: 50px;
+}
+
+@media{
+    .overlay {
+        padding: 50px 25px;
+    }
+}
