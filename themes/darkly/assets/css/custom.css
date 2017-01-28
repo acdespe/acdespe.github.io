@@ -1,0 +1,40 @@
+.img-bg-fluid-height {
+    text-align: center;
+    background: url("../../galleries/h.jpg") no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    padding: 200px 0;
+}
+
+.img-center {
+	margin: 0 auto;
+}
+
+.ccolor {
+    color: #6ebe00;
+}
+
+.pic {
+    width: 96px;
+    height: 96px;
+}
+
+.glyph-lg {
+    font-size: 50px;
+}
+
+.glyph-md {
+    font-size: 25px;
+}
+
+.sep-top {
+    margin-top: 50px;
+}
+
+@media{
+    .overlay {
+        padding: 50px 25px;
+    }
+}
