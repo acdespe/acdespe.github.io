@@ -668,6 +668,10 @@ article.post-micro {
     height: 96px;
 }
 
+.text-justify {
+    text-align: justify;
+}
+
 .glyph-lg {
     font-size: 50px;
 }
