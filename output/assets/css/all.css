@@ -680,6 +680,10 @@ article.post-micro {
     font-size: 25px;
 }
 
+.glyph-sm {
+    font-size: 5px;
+}
+
 .sep-top {
     margin-top: 50px;
 }
