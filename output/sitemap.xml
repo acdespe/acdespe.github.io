@@ -7,109 +7,112 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://acdespe.github.io/</loc>
-  <lastmod>2017-01-28T17:26:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://acdespe.github.io/en/" />
- </url>
- <url>
-  <loc>https://acdespe.github.io/a-propos/</loc>
-  <lastmod>2017-01-28T17:26:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://acdespe.github.io/en/abour/" />
+  <lastmod>2019-07-12T15:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://acdespe.github.io/archive.html</loc>
-  <lastmod>2017-01-28T17:44:00Z</lastmod>
- </url>
- <url>
-  <loc>https://acdespe.github.io/blog/</loc>
-  <lastmod>2017-01-28T17:26:00Z</lastmod>
+  <lastmod>2019-07-12T15:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://acdespe.github.io/categories/</loc>
-  <lastmod>2017-01-28T17:26:00Z</lastmod>
- </url>
- <url>
-  <loc>https://acdespe.github.io/contact/</loc>
-  <lastmod>2017-01-28T17:26:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://acdespe.github.io/en/contact/" />
- </url>
- <url>
-  <loc>https://acdespe.github.io/decouvrir/</loc>
-  <lastmod>2017-01-28T17:26:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://acdespe.github.io/en/discover/" />
+  <lastmod>2019-07-12T15:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://acdespe.github.io/en/</loc>
-  <lastmod>2017-01-28T17:26:00Z</lastmod>
- </url>
- <url>
-  <loc>https://acdespe.github.io/en/abour/</loc>
-  <lastmod>2017-01-28T17:26:00Z</lastmod>
+  <lastmod>2019-07-12T15:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://acdespe.github.io/en/archive.html</loc>
-  <lastmod>2017-01-28T17:44:00Z</lastmod>
- </url>
- <url>
-  <loc>https://acdespe.github.io/en/blog/</loc>
-  <lastmod>2017-01-28T17:26:00Z</lastmod>
+  <lastmod>2019-07-12T15:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://acdespe.github.io/en/categories/</loc>
-  <lastmod>2017-01-28T17:26:00Z</lastmod>
- </url>
- <url>
-  <loc>https://acdespe.github.io/en/contact/</loc>
-  <lastmod>2017-01-28T17:26:00Z</lastmod>
- </url>
- <url>
-  <loc>https://acdespe.github.io/en/discover/</loc>
-  <lastmod>2017-01-28T17:26:00Z</lastmod>
+  <lastmod>2019-07-12T15:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://acdespe.github.io/en/galleries/</loc>
-  <lastmod>2017-01-29T12:13:00Z</lastmod>
+  <lastmod>2019-07-12T15:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://acdespe.github.io/en/galleries/1/</loc>
-  <lastmod>2017-01-29T12:13:00Z</lastmod>
+  <lastmod>2019-07-12T15:58:00Z</lastmod>
  </url>
  <url>
-  <loc>https://acdespe.github.io/en/gallery/</loc>
-  <lastmod>2017-01-28T17:26:00Z</lastmod>
+  <loc>https://acdespe.github.io/en/pages/</loc>
+  <lastmod>2019-07-12T15:58:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://acdespe.github.io/pages/" />
  </url>
  <url>
-  <loc>https://acdespe.github.io/en/projects/</loc>
-  <lastmod>2017-01-28T17:26:00Z</lastmod>
+  <loc>https://acdespe.github.io/en/pages/abour/</loc>
+  <lastmod>2019-07-12T15:58:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://acdespe.github.io/pages/a-propos/" />
  </url>
  <url>
-  <loc>https://acdespe.github.io/en/team/</loc>
-  <lastmod>2017-01-28T17:26:00Z</lastmod>
+  <loc>https://acdespe.github.io/en/pages/contact/</loc>
+  <lastmod>2019-07-12T15:58:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://acdespe.github.io/pages/contact/" />
  </url>
  <url>
-  <loc>https://acdespe.github.io/equipe/</loc>
-  <lastmod>2017-01-28T17:26:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://acdespe.github.io/en/team/" />
+  <loc>https://acdespe.github.io/en/pages/discover/</loc>
+  <lastmod>2019-07-12T15:58:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://acdespe.github.io/pages/decouvrir/" />
  </url>
  <url>
-  <loc>https://acdespe.github.io/gallerie/</loc>
-  <lastmod>2017-01-28T17:26:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://acdespe.github.io/en/gallery/" />
+  <loc>https://acdespe.github.io/en/pages/gallery/</loc>
+  <lastmod>2019-07-12T15:58:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://acdespe.github.io/pages/gallerie/" />
+ </url>
+ <url>
+  <loc>https://acdespe.github.io/en/pages/projects/</loc>
+  <lastmod>2019-07-12T15:58:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://acdespe.github.io/pages/projets/" />
+ </url>
+ <url>
+  <loc>https://acdespe.github.io/en/pages/team/</loc>
+  <lastmod>2019-07-12T15:58:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://acdespe.github.io/pages/equipe/" />
  </url>
  <url>
   <loc>https://acdespe.github.io/galleries/</loc>
-  <lastmod>2017-01-29T12:13:00Z</lastmod>
+  <lastmod>2019-07-12T15:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://acdespe.github.io/galleries/1/</loc>
-  <lastmod>2017-01-29T12:13:00Z</lastmod>
+  <lastmod>2019-07-12T15:58:00Z</lastmod>
  </url>
  <url>
-  <loc>https://acdespe.github.io/listings/</loc>
-  <lastmod>2017-01-28T17:26:00Z</lastmod>
+  <loc>https://acdespe.github.io/pages/</loc>
+  <lastmod>2019-07-12T15:58:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://acdespe.github.io/en/pages/" />
  </url>
  <url>
-  <loc>https://acdespe.github.io/projets/</loc>
-  <lastmod>2017-01-28T17:26:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://acdespe.github.io/en/projects/" />
+  <loc>https://acdespe.github.io/pages/a-propos/</loc>
+  <lastmod>2019-07-12T15:58:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://acdespe.github.io/en/pages/abour/" />
+ </url>
+ <url>
+  <loc>https://acdespe.github.io/pages/contact/</loc>
+  <lastmod>2019-07-12T15:58:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://acdespe.github.io/en/pages/contact/" />
+ </url>
+ <url>
+  <loc>https://acdespe.github.io/pages/decouvrir/</loc>
+  <lastmod>2019-07-12T15:58:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://acdespe.github.io/en/pages/discover/" />
+ </url>
+ <url>
+  <loc>https://acdespe.github.io/pages/equipe/</loc>
+  <lastmod>2019-07-12T15:58:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://acdespe.github.io/en/pages/team/" />
+ </url>
+ <url>
+  <loc>https://acdespe.github.io/pages/gallerie/</loc>
+  <lastmod>2019-07-12T15:58:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://acdespe.github.io/en/pages/gallery/" />
+ </url>
+ <url>
+  <loc>https://acdespe.github.io/pages/projets/</loc>
+  <lastmod>2019-07-12T15:58:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://acdespe.github.io/en/pages/projects/" />
  </url>
 </urlset>
