@@ -5,7 +5,7 @@
       <!--<h5 class="card-title">Card title</h5>-->
       <p class="card-text">Premier atelier d’information et d’imprégnation du projet de lutte contre les eaux en sachets non agréées.</p>
       <a class="btn btn-info btn-block text-uppercase disabled" href="#">Rapport</a>
-      <a class="btn btn-primary text-uppercase btn-block" type="button" data-toggle="collapse" href="#gal-1" data-target="#gal-1" aria-expanded="false" aria-controls="gal-1">Découvrir</a>
+      <a class="btn btn-primary text-uppercase btn-block" type="button" data-toggle="collapse" href="#gal-1" data-target="#gal-1" aria-expanded="false" aria-controls="gal-1">Gallerie</a>
     </div>
   </div>
   <div class="card">
@@ -14,7 +14,7 @@
       <!--<h5 class="card-title">Card title</h5>-->
       <p class="card-text">Première réunion préparatoire en vue du Forum National de l’Économie Verte.</p>
       <a class="btn btn-info btn-block text-uppercase disabled" href="#">Rapport</a>
-      <a class="btn btn-primary text-uppercase btn-block" type="button" data-toggle="collapse" href="#gal-2" data-target="#gal-2" aria-expanded="false" aria-controls="gal-2">Découvrir</a>
+      <a class="btn btn-primary text-uppercase btn-block" type="button" data-toggle="collapse" href="#gal-2" data-target="#gal-2" aria-expanded="false" aria-controls="gal-2">Gallerie</a>
     </div>
   </div>
   <div class="card">
@@ -23,7 +23,7 @@
       <!--<h5 class="card-title">Card title</h5>-->
       <p class="card-text">Campagne de sensibilisation dans le cadre de la lutte contre le VIH/SIDA.</p>
       <a class="btn btn-info btn-block text-uppercase disabled" href="#">Rapport</a>
-      <a class="btn btn-primary text-uppercase btn-block" type="button" data-toggle="collapse" href="#gal-3" data-target="#gal-3" aria-expanded="false" aria-controls="gal-3">Découvrir</a>
+      <a class="btn btn-primary text-uppercase btn-block" type="button" data-toggle="collapse" href="#gal-3" data-target="#gal-3" aria-expanded="false" aria-controls="gal-3">Gallerie</a>
     </div>
   </div>
 </div>
