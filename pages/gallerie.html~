@@ -1,0 +1,104 @@
+<div class="card-deck mb-5">
+  <div class="card">
+    <img src="/images/hero-10.jpg" class="card-img-top img-thumbnail" alt="...">
+    <div class="card-body">
+      <!--<h5 class="card-title">Card title</h5>-->
+      <p class="card-text">Premier atelier d’information et d’imprégnation du projet de lutte contre les eaux en sachets non agréées.</p>
+      <a class="btn btn-info btn-block text-uppercase disabled" href="#">Rapport</a>
+      <a class="btn btn-primary text-uppercase btn-block" type="button" data-toggle="collapse" href="#gal-1" data-target="#gal-1" aria-expanded="false" aria-controls="gal-1">Découvrir</a>
+    </div>
+  </div>
+  <div class="card">
+    <img src="/images/hero-12.jpg" class="card-img-top img-thumbnail" alt="...">
+    <div class="card-body">
+      <!--<h5 class="card-title">Card title</h5>-->
+      <p class="card-text">Première réunion préparatoire en vue du Forum National de l’Économie Verte.</p>
+      <a class="btn btn-info btn-block text-uppercase disabled" href="#">Rapport</a>
+      <a class="btn btn-primary text-uppercase btn-block" type="button" data-toggle="collapse" href="#gal-2" data-target="#gal-2" aria-expanded="false" aria-controls="gal-2">Découvrir</a>
+    </div>
+  </div>
+  <div class="card">
+    <img src="/images/hero-4.jpg" class="card-img-top img-thumbnail" alt="...">
+    <div class="card-body">
+      <!--<h5 class="card-title">Card title</h5>-->
+      <p class="card-text">Campagne de sensibilisation dans le cadre de la lutte contre le VIH/SIDA.</p>
+      <a class="btn btn-info btn-block text-uppercase disabled" href="#">Rapport</a>
+      <a class="btn btn-primary text-uppercase btn-block" type="button" data-toggle="collapse" href="#gal-3" data-target="#gal-3" aria-expanded="false" aria-controls="gal-3">Découvrir</a>
+    </div>
+  </div>
+</div>
+
+<div id="gal-1" class="carousel slide collapse" data-ride="carousel">
+	<div class="carousel-inner">
+   <div class="carousel-item active">
+     <img src="/images/hero-1.jpg" class="d-block w-100" alt="...">
+   </div>
+   <div class="carousel-item">
+     <img src="/images/hero-10.jpg" class="d-block w-100" alt="...">
+   </div>
+  	<a class="carousel-control-prev" href="#gal-1" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Précédent</span>
+  	</a>
+  	<a class="carousel-control-next" href="#gal-1" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Suivant</span>
+  	</a>
+	</div>
+</div>
+
+<div id="gal-2" class="carousel slide collapse" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="/images/hero-12.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="/images/11.jpg" class="d-block w-100" alt="...">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#gal-2" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Précédent</span>
+  </a>
+  <a class="carousel-control-next" href="#gal-2" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Suivant</span>
+  </a>
+</div>
+
+<div id="gal-3" class="carousel slide collapse" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="/images/hero-2.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="/images/hero-3.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="/images/hero-4.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="/images/hero-5.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="/images/hero-6.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="/images/hero-7.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="/images/hero-8.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="/images/hero-9.jpg" class="d-block w-100" alt="...">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#gal-3" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Précédent</span>
+  </a>
+  <a class="carousel-control-next" href="#gal-3" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Suivant</span>
+  </a>
+</div>

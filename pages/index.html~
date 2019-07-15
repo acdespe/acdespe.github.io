@@ -1,0 +1,81 @@
+
+<div id="slider" class="container-fluid mb-5">
+	<div class="carousel slide" data-ride="carousel">
+		<ol class="carousel-indicators">
+			<li data-target="#slider" data-to-slide="0" class="active"></li>
+			<li data-target="#slider" data-to-slide="1"></li>
+			<li data-target="#slider" data-to-slide="2"></li>
+			<li data-target="#slider" data-to-slide="3"></li>
+		</ol>
+	 	<div class="carousel-inner">
+	 		<div class="carousel-item active">
+	 		<img src="/images/hero-1.jpg" class="d-block w-100" alt="...">
+	 		<!--<div class="carousel-caption d-none d-md-block">
+	 			<<h3>Premier Label</h3>
+	 			<p>Ceci est le premier label</p>
+	 		</div>-->
+	 		</div>
+	 		<div class="carousel-item">
+	 		<img src="/images/hero-2.jpg" class="d-block w-100" alt="...">
+	 		<!--<div class="carousel-caption d-none d-md-block">
+	 			<h3>>Deuxième Label</h3>
+	 			<p>Ceci est le second label</p>
+	 		</div>-->
+	 		</div>
+	 		<div class="carousel-item">
+	 		<img src="/images/hero-5.jpg" class="d-block w-100" alt="...">
+	 		<!--<div class="carousel-caption d-none d-md-block">
+	 			<h3>Troisième Label</h3>
+	 			<p>Ceci est le troisième label</p>
+	 		</div>-->
+	 		</div>
+	 		<div class="carousel-item">
+	 		<img src="/images/hero-9.jpg" class="d-block w-100" alt="...">
+	 		<!--<div class="carousel-caption d-none d-md-block">
+	 			<h3>Quatrième Label</h3>
+	 			<p>Ceci est le quatrième label</p>
+	 		</div>-->
+	 		</div>
+	 	</div>
+	 	<a class="carousel-control-prev" href="#slider" role="button" data-slide="prev">
+	 		<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+	 		<span class="sr-only">Précédent</span>
+	 	</a>
+	 	<a class="carousel-control-next" href="#slider" role="button" data-slide="next">
+	 		<span class="carousel-control-next-icon" aria-hidden="true"></span>
+	 		<span class="sr-only">Suivant</span>
+	 	</a>
+	</div>
+</div>
+
+<div class="card-deck mb-5">
+  <div class="card">
+  	<div class="card-header"><h4><span class="oi oi-droplet mr-2" style="color: #6ebe00;"></span>Environnement</h4></div>
+    <div class="card-body">
+      <p class="card-text text-justify">Avec le développement industriel, la préservation de l’environnement et des écosystèmes s’est présentée comme un enjeu majeur pour tous les États. Nous nous positionnons comme un acteur de poids dans cette grande réflexion globale qu’est l’économie verte.</p>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header"><h4><span class="oi oi-globe mr-2" style="color: #6ebe00;"></span>Développement Durable</h4></div>
+    <div class="card-body">
+      <p class="card-text text-justify">Le développement est un processus complexe que toute nation peut néanmoins accomplir s’il dispose des bonnes mesures et des bons instruments. Nous assistons le gouvernement dans sa politique de développement à travers des propositions projets à la fois efficaces et disruptives.</p>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header"><h4><span class="oi oi-heart mr-2" style="color: #6ebe00;"></span>Social</h4></div>
+    <div class="card-body">
+      <p class="card-text text-justify">Dans toute société moderne, les inégalités existent et tendent parfois à persister dans certains cas. Nous travaillons ardemment de concert avec le gouvernement et les autre acteurs de la société civile, dans la réduction de toute forme d’inégalité dans notre société.</p>
+    </div>
+  </div>
+</div>
+
+<div class="jumbotron container-fluid">
+	<div class="row">
+		<div class="col-8">
+			<p>L'ACDESPE fonctionne aussi grâce à la générosité de personnes comme vous.</p>
+		</div>
+		<div class="col-4">
+			<a class="btn btn-success btn-block btn-lg text-uppercase" href="/faire-un-don.html">Faire un Don</a>
+		</div>
+	</div>
+</div>

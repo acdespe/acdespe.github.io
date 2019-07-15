@@ -1,0 +1,105 @@
+<div class="card mb-5">
+  <img src="/images/a-propos.jpg" class="card-img-top img-thumbnail" alt="...">
+  <div class="card-body">
+    <h3 class="card-title">Qui Sommes Nous?</h3>
+    <p class="card-text text-justify">Crée en 2006, l’Association Camerounaise pour le Développement, l’Entraide Sociale et la Protection de l’Environnement (ACDESPE) est une organisation de la société civile camerounaise à but non lucratif, non confessionnelle. Elle œuvre depuis le niveau local jusqu’au niveau central pour la protection de l’environnement. L'ACDESPE existe officiellement depuis 2010 et travaille activement aux cotes du ministère de l’environnement, de la protection de la nature et du développement durable; elle a participe a plusieurs travaux, notamment élaboration de la politique des gestions des emballages non biodégradables, l'organisation du forum national de l’Économie Verte et les différentes activités de la journée mondiale de l'environnement. Depuis 2018, elle s'est engagée activement aux cotes du GNDR et de Carbon Market watch pour la réduction des risques et catastrophes, et le suivit des marches carbone en Afrique.</p>
+    <a class="btn btn-primary text-uppercase" href="/activites">Voir Nos Activités</a>
+  </div>
+</div>
+
+<div class="card-deck text-center mb-5">
+   <div class="card" style="width: 18rem;">
+   <div class="card-header"><h4>Nos Objectifs</h4></div>
+		<ul class="list-group list-group-flush">
+			<li class="list-group-item">Proteger l’environnement</li>
+			<li class="list-group-item">Promouvoir l'Economie Verte au Cameroun et en Afrique centrale</li>
+			<li class="list-group-item">Valoriser des éco-innovations</li>
+			<li class="list-group-item">Promouvoir et encadrement des métiers verts</li>
+			<li class="list-group-item">Soutenir les jeunes et aux femmes défavorisés</li>
+		</ul>
+   </div>
+  <div class="card" style="width: 18rem;">
+   <div class="card-header"><h4>Nos Thématiques</h4></div>
+		<ul class="list-group list-group-flush">
+			<li class="list-group-item">Economie Verte et Gouvernance forestière</li>
+			<li class="list-group-item">REDD+ et Changements Climatiques</li>
+			<li class="list-group-item">Gestion des déchets ménagers et urbains</li>
+			<li class="list-group-item">Sensibilisation, Education à l’Eco-citoyenneté</li>
+			<li class="list-group-item">Démocratie environnementale</li>
+		</ul>
+   </div>
+</div>
+
+<div class="container-fluid text-center mb-5">
+	<h3 class="text-center mb-2">Notre Cible</h3>
+	<div class="row">
+   	<div class="col-md-4">
+   	<i class="oi oi-basket" style="color: #6ebe00; font-size: 2.5em;"></i>
+   	<h5>Communautés locales.</h5>
+   	</div>
+    
+   	<div class="col-md-4">
+   	<i class="oi oi-badge" style="color: #6ebe00; font-size: 2.5em;"></i>
+   	<h5>Institutions publiques.</h5>
+   	</div>
+    
+   	<div class="col-md-4">
+   	<i class="oi oi-people" style="color: #6ebe00; font-size: 2.5em;"></i>
+   	<h5>Jeunes et femmes.</h5>
+   	</div>
+	</div>
+</div>
+
+<h3 class="text-center mb-2">Réseaux et Plateformes</h3>
+<div class="jumbotron">
+	<div class="row">
+		<div class="col-md-4 text-center">
+    		<h4 class="text-primary">GNDR</h4>
+    		<p>Réseau Mondial des Organisations de la Société Civile pour la Réduction des Catastrophes</p>
+		</div>
+
+		<div class="col-md-4 text-center">
+    		<h4 class="text-primary">CMW</h4>
+    		<p>Carbon Market Watch</p>
+		</div>
+
+		<div class="col-md-4 text-center">
+    		<h4 class="text-primary">CEFDHAC</h4>
+    		<p>Conférence sur les Ecosystèmes des Forêts Denses et Humides d’Afrique Centrale</p>
+		</div>
+	</div>
+	
+	<div class="row">
+		<div class="col-md-4 text-center">
+    		<h4 class="text-primary">REJEFAC</h4>
+    		<p>Réseau des Jeunes pour les Forêts d’Afrique Centrale</p>
+		</div>
+
+		<div class="col-md-4 text-center">
+    		<h4 class="text-primary">RACEN</h4>
+    		<p>Réseau d’Acteurs pour les Energies Renouvelables</p>
+		</div>
+
+		<div class="col-md-4 text-center">
+    		<h4 class="text-primary">DCL</h4>
+    		<p>Dynamique Citoyenne Littoral</p>
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-md-4 text-center">
+    		<h4 class="text-primary">RSE</h4>
+    		<p>Collectif RSE-Cameroun.</p>
+		</div>
+
+		<div class="col-md-4 text-center">
+    		<h4 class="text-primary"><strong>EDC-OSC</h4>
+    		<p>Plate-forme Electricity Development Corporation et Organisation de la Société Civile pour la mise en œuvre du PIR et du PGES sur le barrage Hydroélectrique de Lompangar.</p>
+		</div>
+
+		<div class="col-md-4 text-center">
+    		<h4 class="text-primary">HYDROMINE-OSC</h4>
+    		<p>Plate-forme HYDROMINE et Organisation de la Société Civile pour la mise en œuvre du PGES sur le barrage Hydroélectrique de Grand Eweng).</p>
+		</div>
+	</div>
+</div>
