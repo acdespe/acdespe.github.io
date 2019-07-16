@@ -20,7 +20,7 @@ BLOG_AUTHOR = "ACDESPE"  # (translatable)
 BLOG_TITLE = "ACDESPE"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://acdespe.github.io/"
+SITE_URL = "/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://acdespe.github.io/"
@@ -138,11 +138,11 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/", "ACCEUIL"),
-        ("/a-propos/", "A PROPOS"),
-        ("/activites/", "ACTIVITES"),
-        ("/equipe/", "EQUIPE"),
-        ("/gallerie/", "GALLERIE"),
+        ("/", "ACCUEIL"),
+        ("/a-propos/", "À PROPOS"),
+        ("/equipe/", "ÉQUIPE"),
+        ("/activites/", "ACTIVITÉS"),
+        ("/gallerie/", "GALLÉRIE"),
         ("/contact/", "CONTACT"),
     ),
 }

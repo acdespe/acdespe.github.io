@@ -1,4 +1,4 @@
-Sitemap: https://acdespe.github.io/sitemapindex.xml
+Sitemap: /sitemapindex.xml
 
 User-Agent: *
-Host: acdespe.github.io
+Host: 

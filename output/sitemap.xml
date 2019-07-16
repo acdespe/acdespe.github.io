@@ -6,47 +6,47 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>https://acdespe.github.io/</loc>
-  <lastmod>2019-07-16T00:40:00Z</lastmod>
+  <loc>/</loc>
+  <lastmod>2019-07-16T00:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://acdespe.github.io/a-propos/</loc>
-  <lastmod>2019-07-16T00:40:00Z</lastmod>
+  <loc>/a-propos/</loc>
+  <lastmod>2019-07-16T00:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://acdespe.github.io/activites/</loc>
-  <lastmod>2019-07-16T00:40:00Z</lastmod>
+  <loc>/activites/</loc>
+  <lastmod>2019-07-16T00:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://acdespe.github.io/archive.html</loc>
-  <lastmod>2019-07-16T00:40:00Z</lastmod>
+  <loc>/archive.html</loc>
+  <lastmod>2019-07-16T00:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://acdespe.github.io/blog/</loc>
-  <lastmod>2019-07-16T00:40:00Z</lastmod>
+  <loc>/blog/</loc>
+  <lastmod>2019-07-16T00:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://acdespe.github.io/categories/</loc>
-  <lastmod>2019-07-16T00:40:00Z</lastmod>
+  <loc>/categories/</loc>
+  <lastmod>2019-07-16T00:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://acdespe.github.io/contact/</loc>
-  <lastmod>2019-07-16T00:40:00Z</lastmod>
+  <loc>/contact/</loc>
+  <lastmod>2019-07-16T00:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://acdespe.github.io/equipe/</loc>
-  <lastmod>2019-07-16T00:40:00Z</lastmod>
+  <loc>/equipe/</loc>
+  <lastmod>2019-07-16T00:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://acdespe.github.io/gallerie/</loc>
-  <lastmod>2019-07-16T00:40:00Z</lastmod>
+  <loc>/gallerie/</loc>
+  <lastmod>2019-07-16T00:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://acdespe.github.io/galleries/</loc>
-  <lastmod>2019-07-16T00:40:00Z</lastmod>
+  <loc>/galleries/</loc>
+  <lastmod>2019-07-16T00:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://acdespe.github.io/listings/</loc>
-  <lastmod>2019-07-16T00:40:00Z</lastmod>
+  <loc>/listings/</loc>
+  <lastmod>2019-07-16T00:45:00Z</lastmod>
  </url>
 </urlset>
