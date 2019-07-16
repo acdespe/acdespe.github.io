@@ -15,7 +15,7 @@
 'render_galleries:output/galleries/rss.xml', (726528, 10437)
 'copy_assets:output/assets/css/images/ie6/borderBottomRight.png', (183808, 492)
 'render_galleries:output/galleries/h-md.jpg', (195584, 258)
-'sitemap:output/sitemap.xml', (877056, 4866)
+'sitemap:output/sitemap.xml', (877056, 4862)
 'render_posts:cache/pages/decouvrir.html', (48128, 361)
 'create_bundles:output/assets/js/all-nocdn.js', (390144, 1136)
 'render_sources:output/index.src.html', (88064, 239)
@@ -307,3 +307,4 @@
 'scale_images:output/images/sante-8.jpg', (991744, 216)
 'scale_images:output/images/fonev-3.jpg', (992256, 216)
 'copy_assets:output/assets/js/iconify.min.js', (992768, 287)
+'scale_images:output/images/kenfack-anysse.jpg', (993280, 229)
