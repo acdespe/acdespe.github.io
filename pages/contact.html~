@@ -21,9 +21,7 @@
 			</address>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-6">
-			<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=9.711077213287354%2C4.046360172830781%2C9.727513790130617%2C4.058474850380922&amp;layer=mapnik&amp;marker=4.052417534290266%2C9.719295501708984" style="border: 1px solid black"></iframe>
-			<br>
-			<small><a href="http://www.openstreetmap.org/?mlat=4.0524&amp;mlon=9.7193#map=16/4.0524/9.7193&amp;layers=N">Agrandir la Carte</a></small>
+			<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=9.716307520866394%2C4.050924602239865%2C9.722294211387636%2C4.053883708603704&amp;layer=mapnik&amp;marker=4.052401481272125%2C9.719300866127014" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=4.05240&amp;mlon=9.71930#map=18/4.05240/9.71930&amp;layers=N">Agrandir la Carte</a></small>
 		</div>
 	</div>
 </div>
