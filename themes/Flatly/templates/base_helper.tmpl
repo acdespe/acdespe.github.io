@@ -78,6 +78,7 @@ lang="${lang}">
             <script src="/assets/js/popper.min.js"></script>
             <script src="/assets/js/bootstrap.min.js"></script>
             <script src="/assets/js/baguetteBox.min.js"></script>
+            <script src="/assets/js/iconify.min.js"></script>
         %endif
     %endif
     %if date_fanciness != 0:
@@ -129,7 +130,7 @@ lang="${lang}">
 <%def name="html_navigation_links_entries(navigation_links_source)">
     %for url, text in navigation_links_source[lang]:
         % if isinstance(url, tuple):
-            <li class="nav-item dropdown"><a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">${text}</a>
+            <li class="nav-item dropdown font-weight-bold"><a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">${text}</a>
             <div class="dropdown-menu">
             %for suburl, text in url:
                 % if rel_link(permalink, suburl) == "#":
@@ -141,9 +142,9 @@ lang="${lang}">
             </div>
         % else:
             % if rel_link(permalink, url) == "#":
-                <li class="nav-item active"><a href="${permalink}" class="nav-link">${text} <span class="sr-only">${messages("(active)", lang)}</span></a>
+                <li class="nav-item active font-weight-bold"><a href="${permalink}" class="nav-link">${text} <span class="sr-only">${messages("(active)", lang)}</span></a>
             %else:
-                <li class="nav-item"><a href="${url}" class="nav-link">${text}</a>
+                <li class="nav-item font-weight-bold"><a href="${url}" class="nav-link">${text}</a>
             %endif
         % endif
     %endfor
@@ -175,7 +176,7 @@ lang="${lang}">
 <%def name="html_translations()">
     %for langname in sorted(translations):
         %if langname != lang:
-            <li class="nav-item"><a href="${abs_link(_link("root", None, langname))}" rel="alternate" hreflang="${langname}" class="nav-link">${messages("LANGUAGE", langname)}</a></li>
+            <li class="nav-item font-weight-bold"><a href="${abs_link(_link("root", None, langname))}" rel="alternate" hreflang="${langname}" class="nav-link">${messages("LANGUAGE", langname)}</a></li>
         %endif
     %endfor
 </%def>
