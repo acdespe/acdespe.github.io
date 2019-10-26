@@ -5,9 +5,9 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1563751518.3431327
+_modified_time = 1572097641.9304442
 _enable_loop = True
-_template_filename = '/home/romeo/miniconda/envs/nikola/lib/python3.7/site-packages/nikola/data/themes/base/templates/comments_helper_commento.tmpl'
+_template_filename = '/home/ubuntu-studio/nikola/lib/python3.7/site-packages/nikola/data/themes/base/templates/comments_helper_commento.tmpl'
 _template_uri = 'comments_helper_commento.tmpl'
 _source_encoding = 'utf-8'
 _exports = ['comment_form', 'comment_link', 'comment_link_script']
@@ -61,6 +61,6 @@ def render_comment_link_script(context):
 
 """
 __M_BEGIN_METADATA
-{"filename": "/home/romeo/miniconda/envs/nikola/lib/python3.7/site-packages/nikola/data/themes/base/templates/comments_helper_commento.tmpl", "uri": "comments_helper_commento.tmpl", "source_encoding": "utf-8", "line_map": {"16": 0, "21": 6, "22": 9, "23": 12, "29": 2, "34": 2, "35": 5, "36": 5, "42": 8, "46": 8, "52": 11, "56": 11, "62": 56}}
+{"filename": "/home/ubuntu-studio/nikola/lib/python3.7/site-packages/nikola/data/themes/base/templates/comments_helper_commento.tmpl", "uri": "comments_helper_commento.tmpl", "source_encoding": "utf-8", "line_map": {"16": 0, "21": 6, "22": 9, "23": 12, "29": 2, "34": 2, "35": 5, "36": 5, "42": 8, "46": 8, "52": 11, "56": 11, "62": 56}}
 __M_END_METADATA
 """
