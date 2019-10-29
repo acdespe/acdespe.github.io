@@ -4,14 +4,14 @@
   <div class="card">
     <img src="/images/eco-verte.jpg" class="card-img-top img-thumbnail" alt="...">
     <div class="card-body">
-    	<h4 class="card-title font-weight-bold" style="color: #6ebe00;">Forum Nation de l'Économie Verte</h4>
+    	<h4 class="card-title font-weight-bold" style="color: #6ebe00;">Forum National de l'Économie Verte</h4>
       <p class="card-text">Le Forum National de l’Économie Verte (FONEV) a pour ambition de réunir les acteurs engagés sur la problématique du réchauffement climatique afin d’identifier des solutions vertes innovantes et de promouvoir l’élaboration et la mise en œuvre de politiques vertes aux niveaux national et régional.</p>
     </div>
   </div>
   <div class="card">
     <img src="/images/eau-sachet.jpg" class="card-img-top img-thumbnail" alt="...">
     <div class="card-body">
-      <h4 class="card-title font-weight-bold" style="color: #6ebe00;">Santé et Développement Durable</h4>
+      <h4 class="card-title font-weight-bold" style="color: #6ebe00;">Eau, Hygiene et Assainissement</h4>
       <p class="card-text">L'ACDESPE plaide pour la commercialisation des eaux saines en milieux scolaires et sur le marché camerounais à travers son projet de lutte contre la production des eaux en sachet non agréées. Elle appuie ainsi l'action du Ministère de la Santé publique dont l'une des missions est de veiller à la santé de tous les citoyens à travers la lutte contre les maladies hydriques.</p>
     </div>
   </div>
