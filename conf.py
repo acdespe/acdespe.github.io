@@ -144,6 +144,7 @@ NAVIGATION_LINKS = {
         ("/activites/", "ACTIVITÉS"),
         ("/gallerie/", "GALLÉRIE"),
         ("/contact/", "CONTACT"),
+        ("/ramac-2023/", "RAMAC 2023"),
     ),
 }
 
