@@ -32,7 +32,8 @@
 <!-- Menubar -->
 
 <nav class="navbar navbar-expand-md static-top mb-4
-navbar-dark bg-dark
+navbar-dark
+bg-dark
 "><div class="container">
 <!-- This keeps the margins nice -->
         <a class="navbar-brand" href=".">
@@ -60,6 +61,9 @@ navbar-dark bg-dark
                 </li>
 <li class="nav-item font-weight-bold">
 <a href="contact/" class="nav-link">CONTACT</a>
+                </li>
+<li class="nav-item font-weight-bold">
+<a href="ramac-2023/" class="nav-link">RAMAC 2023</a>
 
                 
             </li>
@@ -72,6 +76,7 @@ navbar-dark bg-dark
 </nav><!-- End of Menubar --><div class="container" id="content" role="main">
     <div class="body-content">
         <!--Body content-->
+        
         
         
 <article class="post-text storypage" itemscope="itemscope" itemtype="http://schema.org/Article"><header></header><div class="e-content entry-content" itemprop="articleBody text">
@@ -178,7 +183,8 @@ navbar-dark bg-dark
     
 
 </article><!--End of body content--><footer id="footer">
-            Contents © 2019         <a href="mailto:social_acdespe@yahoo.fr">ACDESPE</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            Contents © 2022         <a href="mailto:social_acdespe@yahoo.fr">ACDESPE</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
             
         </footer>
 </div>
@@ -188,9 +194,7 @@ navbar-dark bg-dark
             <script src="assets/js/jquery.min.js"></script><script src="assets/js/popper.min.js"></script><script src="assets/js/bootstrap.min.js"></script><script src="assets/js/baguetteBox.min.js"></script><script src="assets/js/iconify.min.js"></script><script>
     baguetteBox.run('div#content', {
         ignoreClass: 'islink',
-        captions: function(element) {
-            return element.getElementsByTagName('img')[0].alt;
-    }});
+        captions: function(element){var i=element.getElementsByTagName('img')[0];return i===undefined?'':i.alt;}});
     </script>
 </body>
 </html>
