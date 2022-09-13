@@ -142,9 +142,9 @@ NAVIGATION_LINKS = {
         ("/a-propos/", "À PROPOS"),
         ("/equipe/", "ÉQUIPE"),
         ("/activites/", "ACTIVITÉS"),
+        ("/ramac-2023/", "RAMAC 2023"),
         ("/gallerie/", "GALLÉRIE"),
         ("/contact/", "CONTACT"),
-        ("/ramac-2023/", "RAMAC 2023"),
     ),
 }
 
