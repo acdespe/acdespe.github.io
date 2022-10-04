@@ -32,7 +32,8 @@
 <!-- Menubar -->
 
 <nav class="navbar navbar-expand-md static-top mb-4
-navbar-dark bg-dark
+navbar-dark
+bg-dark
 "><div class="container">
 <!-- This keeps the margins nice -->
         <a class="navbar-brand" href=".">
@@ -56,6 +57,9 @@ navbar-dark bg-dark
 <a href="activites/" class="nav-link">ACTIVITÉS</a>
                 </li>
 <li class="nav-item font-weight-bold">
+<a href="ramac-2023/" class="nav-link">RAMAC 2023</a>
+                </li>
+<li class="nav-item font-weight-bold">
 <a href="gallerie/" class="nav-link">GALLÉRIE</a>
                 </li>
 <li class="nav-item font-weight-bold">
@@ -72,6 +76,7 @@ navbar-dark bg-dark
 </nav><!-- End of Menubar --><div class="container" id="content" role="main">
     <div class="body-content">
         <!--Body content-->
+        
         
         
 <article class="post-text storypage" itemscope="itemscope" itemtype="http://schema.org/Article"><header></header><div class="e-content entry-content" itemprop="articleBody text">
@@ -140,6 +145,18 @@ navbar-dark bg-dark
 	</div>
 </div>
 
+<div class="jumbotron container-fluid">
+	<h3>RAMAC 2023</h3>
+	<div class="row">
+		<div class="col-8">
+			<p style="font-size: 1.2em;">L'ACDESPE organise sous le haut patronage du Premier Ministre Chef du Gouvernement de la République du Cameroun, les <strong>1ères Rencontres Africaine des Marchés Carbone</strong>. Du 04 au 07 Octobre 2023 à Douala, Cameroun.</p>
+		</div>
+		<div class="col-4">
+			<a class="btn btn-success btn-block btn-lg text-uppercase" style="background-color: #6ebe00; border-color: #6ebe00;" href="ramac-2023">Plus d'Infos</a>
+		</div>
+	</div>
+</div>
+
 <div class="card-deck mb-5">
   <div class="card">
   	<div class="card-header" style="color: #6ebe00;"><h4 class="font-weight-bold">
@@ -178,7 +195,8 @@ navbar-dark bg-dark
     
 
 </article><!--End of body content--><footer id="footer">
-            Contents © 2019         <a href="mailto:social_acdespe@yahoo.fr">ACDESPE</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            Contents © 2022         <a href="mailto:social_acdespe@yahoo.fr">ACDESPE</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
             
         </footer>
 </div>
@@ -188,9 +206,7 @@ navbar-dark bg-dark
             <script src="assets/js/jquery.min.js"></script><script src="assets/js/popper.min.js"></script><script src="assets/js/bootstrap.min.js"></script><script src="assets/js/baguetteBox.min.js"></script><script src="assets/js/iconify.min.js"></script><script>
     baguetteBox.run('div#content', {
         ignoreClass: 'islink',
-        captions: function(element) {
-            return element.getElementsByTagName('img')[0].alt;
-    }});
+        captions: function(element){var i=element.getElementsByTagName('img')[0];return i===undefined?'':i.alt;}});
     </script>
 </body>
 </html>
